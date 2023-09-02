@@ -1,0 +1,51 @@
+
+	strings:
+	{
+	"MOFFEIN_ROCKET_BODY_NAME" : "Foguete",
+	"MOFFEIN_ROCKET_BODY_SUBTITLE" : "Choque e Pavor",
+	"MOFFEIN_ROCKET_BODY_LORE" : "bio: agaragun",
+	"MOFFEIN_ROCKET_BODY_DESCRIPTION" : "O Foguete é um expert em explosivos com alta mobilidade, causando alto dano de area.<style=cSub>\r\n\r\n< ! > Use o Salto Explosive para atravessar o mapa rapidamente ou escapar de qualquer perigo!\r\n\r\n< ! > Seu Lança-Foguete pode empurrar inimigos. Use isso para derrubá-los do mapa.\r\n\r\n< ! > Use o Detonador Remoto para acertar inimigos voadores, e tambem pode ser usado para mobilidade.\r\n\r\n< ! > A Carga Nitro é uma otima opção de dano e mobilidade.\r\n\r\n< ! > Recarga Rapida pode ser usada para pular o periodo de recarregamento do Lança-Foguete.",
+	
+	"MOFFEIN_ROCKET_BODY_OUTRO_FLAVOR" : "..então ele se foi, decolando novamente.",
+	"MOFFEIN_ROCKET_BODY_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR" : "..então ele sumiu, nunca mais tocara no chão.",
+	
+	"MOFFEIN_ROCKET_BODY_PASSIVE_NAME" : "Decolagem",
+	"MOFFEIN_ROCKET_BODY_PASSIVE_DESCRIPTION" : "Seus explosivos podem ser usados para causar um <style=cIsUtility>Salto Explosivo</style>.",
+	
+	"MOFFEIN_ROCKET_BODY_PRIMARY_NAME" : "Lança-Foguetes HG4",
+	"MOFFEIN_ROCKET_BODY_PRIMARY_DESCRIPTION" : "<style=cIsUtility>Agil</style>. Lançe um foguete por <style=cIsDamage>600% de dano</style>. Atira 4 foguetes antes de começar o recarregamento.",
+	
+	
+	"MOFFEIN_ROCKET_BODY_PRIMARY_ALT_NAME" : "Lançador HG4 SAM",
+	"MOFFEIN_ROCKET_BODY_PRIMARY_ALT_DESCRIPTION" : "<style=cIsUtility>Agil</style>. Lançe um <style=cIsUtility>foguete de busca termica</style> com um <style=cIsHealth>raio de explosão menor</style>, causando <style=cIsDamage>600% de dano</style>. Atira 4 foguetes antes de começar o recarregamento.",
+	
+	"MOFFEIN_ROCKET_BODY_SECONDARY_NAME" : "Detonador Remoto",
+	"MOFFEIN_ROCKET_BODY_SECONDARY_DESCRIPTION" : "Exploda <style=cIsDamage>todos os explosivos ativos</style>. Foguetes <style=cIsDamage>detonados</style> ganham <style=cIsDamage>50%</style> extra <style=cIsDamage>dano</style> e <style=cIsDamage>raio de explosão</style>.",
+	
+	"MOFFEIN_ROCKET_BODY_UTILITY_NAME" : "Carga Nitro",
+	"MOFFEIN_ROCKET_BODY_UTILITY_DESCRIPTION" : "<style=cIsDamage>Atordoador</style>. Jogue uma carga explosiva. Use <style=cIsDamage> o Detonador Remoto</style> para explodi-la, dando <style=cIsDamage>1200% de dano</style>.",
+	
+	"MOFFEIN_ROCKET_BODY_UTILITY_ALT_NAME" : "Bombardeio",
+	"MOFFEIN_ROCKET_BODY_UTILITY_ALT_DESCRIPTION" : "<style=cIsUtility>Pesado</style>. <style=cIsDamage>Atordoador</style>. Golpeie com sua pá explosiva, dando <style=cIsDamage>1200% de dano</style>. Causa um <style=cIsDamage>Ataque Critico</style> durante um <style=cIsUtility>salto explosivo</style>.",
+	
+	"MOFFEIN_ROCKET_BODY_SPECIAL_NAME" : "Recarga Rapida",
+	"MOFFEIN_ROCKET_BODY_SPECIAL_DESCRIPTION" : "Rapidamente <style=cIsDamage>atire 4 foguetes</style>, depois <style=cIsUtility>recarregue seu Lança-Foguetes</style>.",
+	
+	"MOFFEIN_ROCKET_BODY_SPECIAL_SCEPTER_NAME" : "Bombardeio de Foguetes",
+	"MOFFEIN_ROCKET_BODY_SPECIAL_SCEPTER_DESCRIPTION" : "Rapidamente <style=cIsDamage>atire 10 foguetes</style>, depois <style=cIsUtility>recarregue seu Lança-Foguetes</style>.",
+	
+	"ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_NAME" : "Foguete: Vida = Velocidade",
+	"ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_DESCRIPTION" : "Como Foguete, chegue e uso o Portal Celestial em menos de 25 minutos.",
+	
+	"ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_NAME" : "Foguete: Pula-pula",
+	"ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_DESCRIPTION" : "Como Foguete, uso o Salto Explosivo 10 vezes sem tocar no chão.",
+
+	"MOFFEIN_ROCKET_BODY_MASTERY_SKIN_NAME" : "Artilheiro",
+	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_NAME" : "Foguete: Maestria",
+	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_DESCRIPTION" : "Como Foguete, vença o jogo ou oblitere-se na dificuldade Monção.",
+	
+	"MOFFEIN_ROCKET_BODY_GRANDMASTERY_SKIN_NAME" : "Soldado",
+	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_NAME" : "Foguete: Grande Maestria",
+	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_DESCRIPTION" : "Como Foguete, vença o jogo ou oblitere-se na dificuldade Tufão ou Eclipse.\n<color=#8888>(A dificuldade Tufão requere Starstorm 2)</color>",
+	}
+}
